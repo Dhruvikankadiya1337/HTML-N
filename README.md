@@ -1,1 +1,2 @@
-![screenshort](https://github.com/Dhruvikankadiya1337/HTML-N/blob/1f5520fa739759dbffa10b820afb2aeb02f991cc/wirefram/Screenshot%202024-12-17%20104814.png)
+<h1> wirefram</h1>
+<a><img src="Screenshot 2024-12-17 104814.png"></a>
